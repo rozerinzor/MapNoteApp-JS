@@ -11,4 +11,4 @@ A map-based note app that lets you add notes and markers by clicking on location
 - Interactive map
 
 ## 🛠️ Tech
-HTML • CSS • JavaScript • Leaflet
+HTML • CSS • JavaScript • Leaflet Library
